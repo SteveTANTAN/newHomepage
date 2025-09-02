@@ -1,0 +1,5 @@
+{
+  "name": "Personal Academic Homepage",
+  "description": "A modern, responsive personal academic homepage built with React, TypeScript, and Tailwind CSS, inspired by stevetantan.github.io.",
+  "requestFramePermissions": []
+}
